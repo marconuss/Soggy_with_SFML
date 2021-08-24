@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\marco\OneDrive - smail.th-koeln.de\TH_Koeln\20_WS\Programming\SFML_Engine_final\SFML-Engine\SFML-Engine\Game.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marco\OneDrive - smail.th-koeln.de\TH_Koeln\20_WS\Programming\SFML_Engine_final\SFML-Engine\SFML-Engine\Game.cpp(31,21): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 693 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFML-Engine.vcxproj -> C:\Users\marco\OneDrive - smail.th-koeln.de\TH_Koeln\20_WS\Programming\SFML_Engine_final\SFML-Engine\Release\SFML-Engine.exe
