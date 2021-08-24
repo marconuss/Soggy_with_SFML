@@ -1,1 +1,8 @@
-# Soggy_with_SFML
+# Soggy - Inferno of the cockroaches - SFML version
+
+this is a simple recreation of my application for the Cologne Game Lab
+the original project was done in Unity, this version is entirely in C++ and SFML
+
+This is part of the Game Programming module assignment during my third semester at CGL
+WT 2019-2020
+
